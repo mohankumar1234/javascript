@@ -1,0 +1,19 @@
+{
+  "name": "my-nodejs-service",
+  "version": "1.0.0",
+  "description": "An initial nodejs project to deploy in google cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "gcp"
+  ],
+  "author": "Mohan Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
